@@ -1,4 +1,4 @@
-package com.kgisl.qs1;
+package com.kgisl.ebarter;
 
 /**
  * Hello world!
